@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36.76687,
+                    -119.79787
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Vote Center",
+                "name": "Fresno City College",
+                "address":"1101 E University Ave Fresno, CA 93741",
+                "VCid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36.83674,
+                    -119.87041
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Vote Center",
+                "name": "Central California Blood Center",
+                "Address": "4343 W Herndon Ave Fresno, CA 93722",
+                "VCid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.83832,
+                    -119.71741
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Vote Center",
+                "name": "Clovis Community College - Herndon Campus",
+                "Address": "390 W Fir Ave Clovis, CA 93611",
+                "VCid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36.87165,
+                    -119.76628
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Vote Center",
+                "name": "Woodward Park Regional Library",
+                "Address": "944 E Perrin Ave Fresno, CA 93720",
+                "VCid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36.72637,
+                    -119.74255
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Vote Center",
+                "name": "Mosqueda Community Center",
+                "Address": "Mosqueda Community Center",
+                "VCid": "05"
+            }
+        }
+        
+    ]
+}
